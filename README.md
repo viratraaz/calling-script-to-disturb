@@ -20,12 +20,16 @@ git clone https://github.com/viratraaz/calling-script-to-disturb.git
 
 Step 3:
 
-chmod +x call.sh
+cd calling-script-to-disturb
 
 Step 4:
 
-Connect your phone to  via USB
+chmod +x call.sh
 
 Step 5:
+
+Connect your phone to  via USB
+
+Step 6:
 
 ./call.sh
